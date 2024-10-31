@@ -1,5 +1,4 @@
 # QTS
-# QTS
 
 ## Descrição
 O repositório **QTS** contém os projetos e trabalhos desenvolvidos na disciplina de Qualidade de Software. O objetivo é explorar técnicas e ferramentas para garantir a qualidade no desenvolvimento de software, incluindo testes, métricas e processos de melhoria.
